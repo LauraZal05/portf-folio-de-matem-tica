@@ -1,0 +1,96 @@
+#menu ul {
+    padding:0px;
+    margin:0px;
+    list-style:none;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-color: black;
+    background-color: #ffc24a;
+    border-radius: 20px 20px 20px 20px;
+    border: 5px dotted #E4A52B;
+
+}
+
+#menu ul li { display: inline; }
+
+#menu a {
+  color: black;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#titulo h1{
+  font-family: 'Ubuntu', bold;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+#introducao {
+font-family: 'Ubuntu', sans-serif;
+font-size: 18px;
+text-align: center;
+color: black;
+padding:0px;
+margin:0px;
+list-style:none;
+font-family: 'Ubuntu', sans-serif;
+font-size: 20px;
+text-align: center;
+border-color: black;
+background-color: #ffc24a;
+border-radius: 20px 20px 20px 20px;
+border: 5px dotted #E4A52B;
+}
+
+#lista a{
+color: black;
+font-family: 'Ubuntu', sans-serif;
+font-size: 18px;
+}
+
+#lista {
+  text-align: center;
+  color: black;
+
+}
+
+#jurosimples h4{
+color: black;
+font-family: 'Ubuntu', sans-serif;
+font-size: 20px;
+text-align: center;
+}
+
+#jurosimples h5{
+color: darkblue;
+font-family: 'Ubuntu', sans-serif;
+font-size: 18px;
+text-align: end;
+}
+
+#jurosimples p {
+    color: black;
+    font-family: 'Ubuntu', cursive;
+    font-size: 14px;
+    text-align: center;
+}
+
+#jurosimples h3{
+    color: black;
+    font-family: 'Ubuntu', serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+#jurosimples img {
+    width: 320px;
+    height: 320;
+    text-align: center;
+}
+body{
+    background-image: url(fundo.png);
+    background-size: cover;
+    background-position: center;
+}
+
